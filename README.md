@@ -1,2 +1,9 @@
 # cloud-course-project
 Solution for a theoretical problem as a cloud engineer(from market analysis to financial analysis to additional capacity planning)
+
+This is the Solution for a theoretical problem given in my institute as Cloud Course project.
+The "problem_statement" file contains problem statement for the project and the expectations for solution of the problem of the project.
+The "proposed_solution" file contains the proposed solution of the problem statement, according to the assumptions taken by us(assumptions are stated in the Market Analysis portion of the solution.)
+
+As there couldn't be an ideal solution of the problem statement, this solution is also not an ideal solution, it is according to the assumptions taken.
+There could be multiple solutions for this problem statement.
